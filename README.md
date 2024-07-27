@@ -19,5 +19,8 @@ Here are some ideas to get you started:
 ## Github Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JakhmolaShikhar&include_all_commits=true&count_private=true&show_icons=true&theme=dark)](https://github.com/JakhmolaShikhar/github-readme-stats) <br>
 <br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JakhmolaShikhar&theme=dark)](https://git.io/streak-stats) <br>
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakhmolaShikhar&layout=compact&theme=dark)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JakhmolaShikhar&theme=dark)](https://git.io/streak-stats)
+
