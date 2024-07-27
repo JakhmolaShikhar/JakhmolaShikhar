@@ -1,5 +1,5 @@
 ## Hi there, I'm Shikhar 👋
-![](https://komarev.com/ghpvc/?username=JakhmolaShikhar)
+![](https://komarev.com/ghpvc/?username=JakhmolaShikhar&count_private=true)
 
 <!--
 **JakhmolaShikhar/JakhmolaShikhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ## Github Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JakhmolaShikhar&theme=dark)](https://github.com/JakhmolaShikhar/github-readme-stats) <br>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JakhmolaShikhar&include_all_commits=true&count_private=true&show_icons=true&theme=dark)](https://github.com/JakhmolaShikhar/github-readme-stats) <br>
 <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JakhmolaShikhar&theme=dark)](https://git.io/streak-stats)
