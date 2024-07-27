@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ## Github Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JakhmolaShikhar&theme=transparent)](https://github.com/JakhmolaShikhar/github-readme-stats) <br>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JakhmolaShikhar&theme=dark)](https://github.com/JakhmolaShikhar/github-readme-stats) <br>
 <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JakhmolaShikhar&theme=dark)](https://git.io/streak-stats)
