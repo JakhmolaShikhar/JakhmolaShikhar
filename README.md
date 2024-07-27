@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there, I'm Shikhar 👋
+![](https://komarev.com/ghpvc/?username=JakhmolaShikhar)
 
 <!--
 **JakhmolaShikhar/JakhmolaShikhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Github Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JakhmolaShikhar&theme=transparent)](https://github.com/JakhmolaShikhar/github-readme-stats)
