@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ## Github Stats
-[![Shikhar's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+[![Shikhar's GitHub stats](https://github-stats-extended.vercel.app/api?username=JakhmolaShikhar)](https://github.com/stats-organization/github-stats-extended)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JakhmolaShikhar&include_all_commits=true&count_private=true&show_icons=true&theme=dark)](https://github.com/JakhmolaShikhar/github-readme-stats) <br>
 <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JakhmolaShikhar&theme=dark&include_private=true&hide_current_streak=false)](https://git.io/streak-stats) <br>
